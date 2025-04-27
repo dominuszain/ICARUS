@@ -1,0 +1,4 @@
+target 91.9 n
+points 600 n
+step 0.001 n
+path -1 ncap.txt
