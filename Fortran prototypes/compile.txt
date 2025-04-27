@@ -1,0 +1,2 @@
+gfortran -fdefault-real-8 -fdefault-double-8 -c main.f90
+gfortran *.o -o main.exe
