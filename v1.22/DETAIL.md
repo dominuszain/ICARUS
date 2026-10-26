@@ -795,4 +795,3 @@ def run_batch(targets, input_file):
 
 For questions about this documentation or the code implementation:
 - Original author: dominuszain@gmail.com
-- AI assistant: Available via opencode interface

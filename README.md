@@ -100,7 +100,7 @@ section and reaction rate.
 If you use ICARUS, please cite the thesis and the code:
 
 ```bibtex
-@thesis{ulabideen_icarus_thesis_2024,
+@misc{ulabideen_icarus_thesis_2024,
   author = {Ul Abideen, Zain},
   title  = {ICARUS},
   year   = {2024},
