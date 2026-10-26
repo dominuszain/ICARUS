@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "ICARUS: Maxwellian-averaged cross sections and thermonuclear reaction rates"
+abstract: "A code for computing Maxwellian-averaged cross sections and thermonuclear reaction rates for neutron-capture reactions."
+authors:
+  - family-names: Ul Abideen
+    given-names: Zain
+    email: zain2@uni-bremen.de
+    affiliation: University of Bremen
+version: "1.22"
+date-released: "2026-10-26"
+license: MIT
+url: "https://github.com/dominuszain/ICARUS"
+repository-code: "https://github.com/dominuszain/ICARUS"
+keywords:
+  - astrophysics
+  - nuclear astrophysics
+  - reaction rates
+  - Maxwellian average
+  - neutron capture
+references:
+  - type: thesis
+    title: "ICARUS"
+    authors:
+      - family-names: Ul Abideen
+        given-names: Zain
+    year: 2024
+    doi: ""
+    url: ""
+EOF

@@ -1,6 +1,6 @@
 # ICARUS v1.22 - Technical Implementation Details
 
-**Comprehensive documentation for AI assistants and developers**
+**Technical documentation for developers**
 
 This document provides complete technical details necessary for understanding, maintaining, and extending the ICARUS codebase.
 

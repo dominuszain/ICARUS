@@ -10,10 +10,9 @@ A Python tool for calculating Maxwellian-averaged cross-sections and nuclear rea
 
 ICARUS calculates thermonuclear reaction rates for neutron-induced reactions using input cross-section data. It integrates the cross-section over a Maxwellian energy distribution to produce temperature-dependent reaction rates.
 
-**Original Author:** Zain Ul Abideen (FYP, BS-SS09-IST)  
+**Author:** Zain Ul Abideen (FYP, BS-SS09-IST)  
 **Contact:** dominuszain@gmail.com  
-**Version:** 1.22 (Python implementation)  
-**Modernized with:** Opencode + Qwen3.5 397B
+**Version:** 1.22 (Python implementation)
 
 ---
 
@@ -230,7 +229,7 @@ T (GK) = 1.1605 × E (keV) / 100
 
 ## License
 
-This code was developed as part of a Final Year Project (FYP). Contact the author for licensing information.
+Released under the MIT License. See [`../LICENSE`](../LICENSE).
 
 ---
 
