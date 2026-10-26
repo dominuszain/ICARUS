@@ -9,11 +9,11 @@
 ICARUS computes Maxwellian-averaged cross sections (MACS) and thermonuclear
 reaction rates for neutron-capture reactions. It takes tabulated cross sections
 as input and integrates them over a Maxwellian energy distribution. The code was
-developed for my final-year project on heavy nuclei and can be coupled
+developed for my bachelor's thesis on heavy nuclei and can be coupled
 with reaction-network codes such as YAHFC.
 
 **Author:** Zain Ul Abideen
-**Thesis:** [ICARUS]() (2024)
+**Bachelor's thesis:** [ICARUS]() (Institute of Space Technology, Islamabad, 2024)
 **GitHub repository:** [dominuszain/ICARUS](https://github.com/dominuszain/ICARUS)
 
 ## Latest version
@@ -75,6 +75,9 @@ neutron velocity, and Avogadro's number. The v1.22 implementation also detects
 the number of input points automatically and can produce plots of the cross
 section and reaction rate.
 
+The legacy Fortran and Scilab versions in `legacy/` use a Riemann-sum
+approximation with a finite cutoff; v1.22 uses Simpson's rule.
+
 ## Repository layout
 
 ```
@@ -104,7 +107,7 @@ If you use ICARUS, please cite the thesis and the code:
   author = {Ul Abideen, Zain},
   title  = {ICARUS},
   year   = {2024},
-  note   = {Final year project},
+  note   = {Bachelor's thesis, Institute of Space Technology, Islamabad},
   doi    = {},
   url    = {}
 }
