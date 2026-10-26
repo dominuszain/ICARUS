@@ -2,18 +2,16 @@
 
 **Maxwellian-averaged cross sections and thermonuclear reaction rates**
 
-[![DOI](https://img.shields.io/badge/DOI--blue)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 
 ICARUS computes Maxwellian-averaged cross sections (MACS) and thermonuclear
 reaction rates for neutron-capture reactions. It takes tabulated cross sections
 as input and integrates them over a Maxwellian energy distribution. The code was
-developed for my bachelor's thesis on heavy nuclei and can be coupled
-with reaction-network codes such as YAHFC.
+developed for my bachelor's thesis on heavy nuclei and can be coupled with
+reaction-network codes such as YAHFC.
 
-**Author:** Zain Ul Abideen
-**Bachelor's thesis:** [ICARUS]() (Institute of Space Technology, Islamabad, 2024)
+**Author:** Zain Ul Abideen  
 **GitHub repository:** [dominuszain/ICARUS](https://github.com/dominuszain/ICARUS)
 
 ## Latest version
@@ -100,18 +98,9 @@ approximation with a finite cutoff; v1.22 uses Simpson's rule.
 
 ## Citation
 
-If you use ICARUS, please cite the thesis and the code:
+If you use ICARUS, please cite the code:
 
 ```bibtex
-@misc{ulabideen_icarus_thesis_2024,
-  author = {Ul Abideen, Zain},
-  title  = {ICARUS},
-  year   = {2024},
-  note   = {Bachelor's thesis, Institute of Space Technology, Islamabad},
-  doi    = {},
-  url    = {}
-}
-
 @software{ulabideen_icarus_2026,
   author = {Ul Abideen, Zain},
   title  = {ICARUS: Maxwellian-averaged cross sections and thermonuclear reaction rates},
